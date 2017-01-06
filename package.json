@@ -1,0 +1,14 @@
+{
+  "name": "gcloud-vision-test",
+  "version": "1.0.0",
+  "description": "Test Google Cloud Vision API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saumitra Bhanage <bhanage.saumitra@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/vision": "^0.7.0"
+  }
+}
