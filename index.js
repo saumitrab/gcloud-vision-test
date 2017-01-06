@@ -1,8 +1,8 @@
 var projectId = "cloud-vision-test-154722";
 
-var vision = require('@google-cloud/vision');
+var googleCloud = require('google-cloud');
 
-var visionClient = vision({
+var visionClient = googleCloud.vision({
     projectId: 'my-project',
     keyFilename: './config/keyfile.json'
 });
