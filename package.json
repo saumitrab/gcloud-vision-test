@@ -9,6 +9,6 @@
   "author": "Saumitra Bhanage <bhanage.saumitra@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "google-cloud": "^0.45.1"
+    "node-fetch": "^1.6.3"
   }
 }
